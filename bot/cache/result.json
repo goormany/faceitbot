@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2021-10-18 23:57:32",
+        "map": "de_inferno",
+        "Match outcome": "Victory",
+        "region": "EU",
+        "score": "16 / 11",
+        "sum_rounds": "27",
+        "BO": "2",
+        "new elo": "1404",
+        "roomID": "1-5564274a-8a19-4235-8725-d792ef4287ee",
+        "gameMode": "5v5",
+        "link": "https://www.faceit.com/ru/csgo/room/1-5564274a-8a19-4235-8725-d792ef4287ee"
+    },
+    {
+        "nickname": "WonnaCryL",
+        "kill": "23",
+        "assists": "2",
+        "death": "17",
+        "k/r": "0.85",
+        "k/d": "1.35",
+        "k/d/a": "23/17/2",
+        "hs count": "10",
+        "hs %": "43"
+    },
+    {
+        "date": "2021-10-18 23:57:32",
+        "map": "de_inferno",
+        "Match outcome": "Victory",
+        "region": "EU",
+        "score": "16 / 11",
+        "sum_rounds": "27",
+        "BO": "2",
+        "new elo": "1404",
+        "roomID": "1-5564274a-8a19-4235-8725-d792ef4287ee",
+        "gameMode": "5v5",
+        "link": "https://www.faceit.com/ru/csgo/room/1-5564274a-8a19-4235-8725-d792ef4287ee"
+    },
+    {
+        "nickname": "WonnaCryL",
+        "kill": "23",
+        "assists": "2",
+        "death": "17",
+        "k/r": "0.85",
+        "k/d": "1.35",
+        "k/d/a": "23/17/2",
+        "hs count": "10",
+        "hs %": "43"
+    }
+]
